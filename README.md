@@ -5,7 +5,7 @@
 Backend developed using MongoDB, Mongoose, nodeJS. Using libraries such as Multer and GridFS to allow image upload and parsing into different collections.
 
 # Shelter Application
-Shelter Frontend developed using React.js 
+Shelter Frontend developed using React.js, MaterialUI, Axios, Router-Dom, material-ui-chip-input
 This Portion of the App allows Shelters to be able to register/login, only see what animals that specific shelter has showing for the Pet-Owner (tinder-style) application, add animals, edit existing animals, delete animals who have gotten adopted etc. This portion directly feeds the backend which then displays on the pet-owner section.
 
 Try the Demo.
