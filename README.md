@@ -15,7 +15,7 @@ Password: guest
 
 Feel free to create a new account (oAuth not enabled so the email address doesn't have to be valid). Passport is enabled to hash/salt passwords, but email links are not implemented.
 
-[Demo](https://petfinder-react-app.web.app/home)
+[Demo](https://petfinder-react-app.web.app/)
 
 # Pet Owner Application
 UNDER DEVELOPMENT
